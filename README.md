@@ -6,7 +6,7 @@
 
 - My name is Nozzy
 
-- I am Not programmer
+- I am Not programmerr
  
 </p>
 
