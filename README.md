@@ -30,9 +30,8 @@
 - Allah S.W.T
 - Ortu
 - Fxc7
-- Farhan
+- Farhn
 * [`Zero`](https://github.com/Zero-YT7)
 * [`Nozzy`](https://github.com/Nozyxid)
-- Eka Danuarta
 - Zhirr
 ```
