@@ -6,12 +6,12 @@ var db = require(__path + '/database/db');
 try {
 var kuhong = db.get('ojan'); // jan diubah
 } catch (e) {
-	console.log('WELCOME TO ZEROYT7 API!') // boleh diubah
+	console.log('WELCOME TO NOZZY API!') // boleh diubah
 }
 
-var creatorList = ['Zero YT7']; // Nama Lu Ngab
+var creatorList = ['Nozzy']; // Nama Lu Ngab
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)]; // Ini jan diubah
-var key = 'ZeroYT7' // Apikey Lu Ngab
+var key = 'Nozzy' // Apikey Lu Ngab
 
 // Required Modules :
 var ffmpeg = require('fluent-ffmpeg');
@@ -388,7 +388,7 @@ router.get('/infonpm', async (req, res, next) => {
                  status : true,
                  creator : `${creator}`,
                  result,
-                 message : `jangan lupa Subscribe Youtube ${creator}`
+                 message : `jangan lupa Follow Instagram ${creator}`
              })
          })
          .catch(e => {
@@ -451,7 +451,7 @@ router.get('/short/tiny', async (req, res, next) => {
                  result : {
                      link : `${body}`,
                  },
-                 message : `jangan lupa Subscribe Youtube ${creator}`
+                 message : `jangan lupa Follow Instagram ${creator}`
              })
          } catch (e) {
              console.log('Error :', color(e,'red'))
