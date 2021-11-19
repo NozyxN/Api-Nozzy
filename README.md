@@ -1,7 +1,4 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/Nozyxid/Api-Nozzy/public/images/logo1.jpg" alt="NOZZY" width="128" height="128"/>
-</p>
-
+<img alig src="https://c.tenor.com/i3uWiBCMgh8AAAAd/sad-aesthetic.gif"/>
 
 </p>
 
