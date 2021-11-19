@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nozyxid/Api-Nozzy/public/media/logo1.jpg" alt="NOZZY" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/Nozyxid/Api-Nozzy/public/images/logo1.jpg" alt="NOZZY" width="128" height="128"/>
 </p>
 
 <p align="center">
